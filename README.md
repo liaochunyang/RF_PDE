@@ -45,7 +45,7 @@ Contains numerical experiments for several dynamical systems, including:
 #### Nonlinear PDE
 
 <p align="center">
-  <img src="./Nonlinear_PDE/Nonlinear_PDE.png" width="600">
+  <img src="./Nonlinear_PDE/Nonlinear_PDE.png" width="800">
 </p>
 
 ## Environment
