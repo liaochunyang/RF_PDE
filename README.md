@@ -1,13 +1,7 @@
 # Solving Partial Differential Equations with Random Features
 
-This github repository contains the numerical implementations accompanying the paper **Solving Partial Differential Equations with Random Features**. It includes the code used to generate the numerical results reported in the paper.
-
-by Chunyang Liao published in Communications in Nonlinear Science and Numerical Simulation, 2026, [[DOI]](https://www.sciencedirect.com/science/article/abs/pii/S100757042500752X?via%3Dihub).
-
-Implementation and numerical experiments for random feature models for approximating Koopman Eigenfunctions. 
-
 ## Overview
-This repository contains the numerical implementations accompanying the paper **On the Approximation of Koopman Eigenfunctions using Random Features**. The numerical experiments evaluate the performance of proposed method on several dynamical systems and provide numerical verification of theory. 
+This repository contains the numerical implementations accompanying the paper **Solving Partial Differential Equations with Random Features**. The numerical experiments evaluate the performance of proposed method on several PDEs and provide numerical verification of theory. 
 
 ## Publication
 A detailed description of the model, methodology, and numerical results is available in the following publication:
@@ -35,7 +29,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S100757042500752X}
 
 ## Numerical Experiments
 
-Contains numerical experiments for several dynamical systems, including:
+Contains numerical experiments for several PDEs, including:
 
 - [`Advection_Diffusion/`](./Advection_Diffusion/) — Advection Diffusion Equation
 - [`Allen_Cahn/`](./Allen_Cahn/) — Allen-Cahn Equation
